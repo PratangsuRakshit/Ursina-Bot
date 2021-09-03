@@ -4,11 +4,11 @@
 
 A unique discord open-source BOT.
 
-##Please but ur suggestions in the comments area
-
 For getting started or to know the commands type -
 `!cmds` or `!commands`
 
+## Comments & Suggestions
+Please but ur suggestions in the comments area
 
 ## Contributing
 
