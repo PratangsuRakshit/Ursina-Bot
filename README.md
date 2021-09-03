@@ -4,7 +4,7 @@
 
 A unique discord open-source BOT.
 
-
+#please but ur suggestions in the comments area
 
 
 For getting started or to know the commands type -
